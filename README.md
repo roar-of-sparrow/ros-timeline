@@ -1,4 +1,5 @@
-timeline
+Roar of Sparrow Timeline
 ========
 
-Timeline of "Roar of Sparrow" team.
+* CSS болон Javascipt ашиглан хөгжүүлсэн.
+* Parallax scrolling + Smooth scrolling
