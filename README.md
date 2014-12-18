@@ -1,5 +1,5 @@
 Roar of Sparrow Timeline
 ========
 
-* CSS болон Javascipt ашиглан хөгжүүлсэн.
+* Development is open for ROS team members
 * Parallax scrolling + Smooth scrolling
