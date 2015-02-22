@@ -399,3 +399,31 @@ hr{
     font-size: 32px;
     font-weight: bold;
 }
+.dis-text{
+    position: absolute;
+    margin-top: -250px;
+    color: #ffffff;
+    border: 2px solid #ff0000;
+    font-size: 19px;
+    font-family: sans-serif;
+    width: 620px;
+    text-align: center;
+    margin-left: -310px;
+    letter-spacing: 1px;
+}
+.dis-fact{
+    font-family: monospace;
+    font-size: 14px;
+    position: absolute;
+    width: 540px;
+    margin-left: -270px;
+    margin-top: 150px;
+    color: #5d8c9e;
+    text-align: left !important;
+}
+.dis-img{
+    width: 827px;
+    margin-top: -180px;
+    margin-left: -414px;
+    position: absolute;
+}

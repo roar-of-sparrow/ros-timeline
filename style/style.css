@@ -162,6 +162,13 @@
     background: #FFFFFF;
   }
 
+ #group8 {
+    z-index: 3; /* slide over group 7 */
+  }
+  #group8 .parallax__layer--base {
+    background: #293134;
+  }
+
 
   /* misc
   --------------------------------------------- */
