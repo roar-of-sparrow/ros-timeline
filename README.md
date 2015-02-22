@@ -1,4 +1,5 @@
-timeline
+Roar of Sparrow Timeline
 ========
 
-Timeline of "Roar of Sparrow" team.
+* Development is open for ROS team members
+* Parallax scrolling + Smooth scrolling
